@@ -14,7 +14,7 @@
 
 .hero-section > .columns-wrapper > img {
     max-width: 300px;
-    height: auto;
+    max-height: 300px;
     border: 5px solid white;
 }
 
