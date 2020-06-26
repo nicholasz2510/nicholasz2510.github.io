@@ -21,3 +21,14 @@
 .page-container .content-wrapper p {
     font-size: 1.5em;
 }
+
+.page-container .content-wrapper .text-photo-wrapper {
+    display: flex;
+}
+
+.page-container .content-wrapper .text-photo-wrapper img {
+    max-width: 400px;
+    max-height: 400px;
+    padding: 50px;
+    border-radius: 60px;
+}
