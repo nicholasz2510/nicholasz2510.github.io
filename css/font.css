@@ -3,20 +3,24 @@
     src: url(../fonts/D-DINCondensed-Bold.otf);
     font-weight: bold;
 }
+
 @font-face {
     font-family: 'D-DINCondensed';
     src: url(../fonts/D-DINCondensed.otf);
 }
+
 @font-face {
     font-family: 'D-DIN';
     src: url(../fonts/D-DIN-Italic.otf);
     font-style: italic;
 }
+
 @font-face {
     font-family: 'D-DIN';
     src: url(../fonts/D-DIN-Bold.otf);
     font-weight: bold;
 }
+
 @font-face {
     font-family: 'D-DIN';
     src: url(../fonts/D-DIN.otf);
