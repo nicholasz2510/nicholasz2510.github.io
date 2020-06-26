@@ -1,0 +1,10 @@
+/* Common styles */
+
+html {
+    font-family: D-DIN, sans-serif;
+    background-color: #121212;
+    color: white;
+}
+body {
+    margin: 0;
+}
