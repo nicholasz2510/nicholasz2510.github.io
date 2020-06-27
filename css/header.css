@@ -1,0 +1,16 @@
+.page-container {
+    display: flex;
+    flex-direction: column;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 10px;
+}
+
+.page-container .content-wrapper h1 {
+    font-size: 6em;
+    width: min-content;
+    border-bottom: 2px solid #2A456E;
+    padding-left: 10px;
+    padding-right: 30px;
+    margin-bottom: 0;
+}
