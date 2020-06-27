@@ -1,15 +1,15 @@
 .page-container .content-wrapper h2 {
-    font-size: 3em;
+    font-size: 3.125vw;
+    margin-bottom: 0;
+}
+
+.page-container .content-wrapper h3 {
+    font-size: 1.2vw;
     margin-bottom: 0;
 }
 
 .page-container .content-wrapper p {
-    font-size: 1.25em;
-}
-
-.page-container .content-wrapper h2 {
-    font-size: 3em;
-    margin-bottom: 0;
+    font-size: 1.3vw;
 }
 
 .page-container .content-wrapper .text-photo-wrapper {
@@ -22,17 +22,18 @@
 }
 
 .page-container .content-wrapper .text-photo-wrapper .bio-photo img {
-    max-width: 400px;
+    max-width: 26vw;
     height: auto;
-    margin: 40px;
-    border-radius: 20px;
+    margin: 2.6vw;
+    border-radius: 1.3vw;
 }
 
 .page-container .content-wrapper .text-photo-wrapper .bio-photo .caption {
     position: absolute;
-    top: 395px;
-    left: 50px;
+    top: 26vw;
+    left: 3vw;
     background-color: rgba(0,0,0,0.6);
-    padding: 3px 5px 3px 5px;
-    border-radius: 5px;
+    padding: 0.2vw 0.3vw 0.2vw 0.3vw;
+    border-radius: 0.3vw;
+    font-size: 1vw;
 }

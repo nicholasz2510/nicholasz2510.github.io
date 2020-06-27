@@ -1,16 +1,16 @@
 .page-container {
     display: flex;
     flex-direction: column;
-    margin-left: 150px;
-    margin-right: 150px;
-    margin-top: 10px;
+    margin-left: 9.8vw;
+    margin-right: 9.8vw;
+    margin-top: 0.7vw;
 }
 
 .page-container .content-wrapper h1 {
-    font-size: 6em;
+    font-size: 6.25vw;
     width: min-content;
-    border-bottom: 2px solid #2A456E;
-    padding-left: 10px;
-    padding-right: 30px;
+    border-bottom: 0.13vw solid #2A456E;
+    padding-left: 0.7vw;
+    padding-right: 2vw;
     margin-bottom: 0;
 }

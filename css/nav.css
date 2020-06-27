@@ -6,6 +6,7 @@
     align-items: center;
     padding-left: 20px;
     box-shadow: 0 20px 35px 0 rgba(0,0,0,0.75);
+    min-width: 413px;
 }
 
 .nav .logo-wrapper a img {
