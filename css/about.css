@@ -59,9 +59,8 @@
     }
 
     .page-container .content-wrapper .text-photo-wrapper .bio-photo {
-        position: relative;
-        text-align: center;
-        padding-bottom: 20px;
+        padding-top: 20px;
+        align-items: center;
     }
 
     .page-container .content-wrapper .text-photo-wrapper .bio-photo img {
@@ -72,13 +71,6 @@
     }
 
     .page-container .content-wrapper .text-photo-wrapper .bio-photo .caption {
-        max-width: 79%;
-        position: absolute;
-        top: 64vw;
-        left: 8vw;
-        background-color: rgba(0, 0, 0, 0.6);
-        padding: 0.2vw 0.3vw 0.2vw 0.3vw;
-        border-radius: 0.3vw;
-        font-size: 16px;
+        display: none;
     }
 }
