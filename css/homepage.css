@@ -32,3 +32,28 @@
 .hero-section > .columns-wrapper > .text > p {
     font-size: 200%;
 }
+
+.about-summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 300px;
+    padding-right: 300px;
+    margin: 10px;
+    background-color: #1E1E1E;
+    border-radius: 5px;
+    box-shadow: 0 3px 5px 5px rgba(0,0,0,0.3);
+}
+
+.about-summary .section-title h1 {
+    font-size: 3em;
+    margin: 15px 20px 20px 20px;
+    padding-right: 10px;
+    padding-left: 5px;
+    border-bottom: 2px solid #2A456E;
+}
+
+.about-summary .section-content p {
+    font-size: 1.25em;
+    margin: 20px;
+}
