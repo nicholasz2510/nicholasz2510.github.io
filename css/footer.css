@@ -11,13 +11,13 @@
 }
 
 .footer .signature img {
-    height: 60px;
+    height: 4vw;
     width: auto;
-    padding: 10px 40px;
+    padding: 0.7vw 2.6vw;
 }
 
 .footer .copyright-wrapper {
-    padding-right: 50px;
+    padding-right: 3.3vw;
 }
 
 .footer .copyright-wrapper p {
