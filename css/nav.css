@@ -1,13 +1,11 @@
 .nav {
     background-color: #1F1F1F;
     overflow: hidden;
-}
-
-.nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding-left: 20px;
+    box-shadow: 0 20px 35px 0 rgba(0,0,0,0.75);
 }
 
 .nav .logo-wrapper a img {
