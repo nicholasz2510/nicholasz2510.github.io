@@ -9,7 +9,7 @@
 .page-container .content-wrapper h1 {
     font-size: 6.25vw;
     width: min-content;
-    border-bottom: 0.13vw solid #2A456E;
+    border-bottom: 2px solid #2A456E;
     padding-left: 0.7vw;
     padding-right: 2vw;
     margin-bottom: 0;
@@ -27,7 +27,7 @@
     .page-container .content-wrapper h1 {
         font-size: 60px;
         width: min-content;
-        border-bottom: 0.13vw solid #2A456E;
+        border-bottom: 2px solid #2A456E;
         padding-left: 0.7vw;
         padding-right: 2vw;
         margin-bottom: 0;
