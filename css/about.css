@@ -18,14 +18,14 @@
 
 .page-container .content-wrapper .text-photo-wrapper .bio-photo img {
     max-width: 400px;
-    max-height: 400px;
-    padding: 40px;
-    border-radius: 60px;
+    height: auto;
+    margin: 40px;
+    border-radius: 20px;
 }
 
 .page-container .content-wrapper .text-photo-wrapper .bio-photo .caption {
     position: absolute;
-    bottom: 50px;
+    top: 395px;
     left: 50px;
     background-color: rgba(0,0,0,0.6);
     padding: 3px 5px 3px 5px;
