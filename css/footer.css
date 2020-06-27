@@ -1,0 +1,25 @@
+.footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    background-color: #2A456E;
+}
+
+.footer .signature img {
+    height: 60px;
+    width: auto;
+    padding: 10px 40px;
+}
+
+.footer .copyright-wrapper {
+    padding-right: 50px;
+}
+
+.footer .copyright-wrapper p {
+    font-size: 1.25em;
+}
