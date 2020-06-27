@@ -41,12 +41,10 @@
 @media only screen and (max-width: 1000px) {
     .page-container .content-wrapper h2 {
         font-size: 30px;
-        margin-bottom: 0;
     }
 
     .page-container .content-wrapper h3 {
         font-size: 14px;
-        margin-bottom: 0;
     }
 
     .page-container .content-wrapper p {
@@ -54,7 +52,6 @@
     }
 
     .page-container .content-wrapper .text-photo-wrapper {
-        display: flex;
         flex-direction: column;
     }
 
@@ -66,8 +63,6 @@
     .page-container .content-wrapper .text-photo-wrapper .bio-photo img {
         max-width: 80%;
         height: auto;
-        margin: 2.6vw;
-        border-radius: 1.3vw;
     }
 
     .page-container .content-wrapper .text-photo-wrapper .bio-photo .caption {
