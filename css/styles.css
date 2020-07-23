@@ -16,7 +16,7 @@ body {
     overflow: hidden;
     display: block;
     position: relative;
-    padding-bottom: 85px;
+    padding-bottom: 5.14vw;
 }
 
 ::-webkit-scrollbar {
