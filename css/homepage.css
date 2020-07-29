@@ -1,5 +1,5 @@
 .hero-section {
-    height: 400px;
+    min-height: 400px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -33,19 +33,19 @@
     font-size: 200%;
 }
 
-.about-summary {
+.summary {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-left: 300px;
-    padding-right: 300px;
+    padding-left: 15.6vw;
+    padding-right: 15.6vw;
     margin: 10px;
     background-color: #1E1E1E;
     border-radius: 5px;
     box-shadow: 0 3px 5px 5px rgba(0,0,0,0.3);
 }
 
-.about-summary .section-title h1 {
+.summary .section-title h1 {
     font-size: 3em;
     margin: 15px 20px 20px 20px;
     padding-right: 10px;
@@ -53,7 +53,43 @@
     border-bottom: 2px solid #2A456E;
 }
 
-.about-summary .section-content p {
+.summary .section-content p {
     font-size: 1.25em;
     margin: 20px;
+}
+
+@media only screen and (max-width: 1000px) {
+    .hero-section > .columns-wrapper {
+        flex-direction: column;
+        align-items: center;
+        align-content: center;
+        width: 100vw;
+        margin-top: 40px;
+    }
+
+    .hero-section > .columns-wrapper > .text {
+        align-items: center;
+    }
+
+    .hero-section > .columns-wrapper > .text h1 {
+        font-size: 60px;
+        margin: 20px;
+    }
+
+    .hero-section > .columns-wrapper > .text p {
+        font-size: 30px;
+        margin: 0 0 30px;
+    }
+
+    .summary {
+        padding-left: 2vw;
+        padding-right: 2vw;
+    }
+
+    .summary .section-title h1 {
+        font-size: 40px;
+    }
+    .summary .section-content p {
+        font-size: 14px;
+    }
 }

@@ -63,6 +63,7 @@
     .page-container .content-wrapper .text-photo-wrapper .bio-photo img {
         max-width: 80%;
         height: auto;
+        margin-bottom: 100px;
     }
 
     .page-container .content-wrapper .text-photo-wrapper .bio-photo .caption {
