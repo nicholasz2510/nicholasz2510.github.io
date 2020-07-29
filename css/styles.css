@@ -6,6 +6,10 @@ html {
     color: white;
 }
 
+a {
+    color: #2A456E;
+}
+
 body {
     margin: 0;
     position: relative;
@@ -30,7 +34,7 @@ body {
     background-color: #383b3e;
 }
 ::-webkit-scrollbar-thumb:active {
-    background-color: #3d4043;
+    background-color: #2A456E;
 }
 ::-webkit-scrollbar-corner {
     background-color: #181a1b;
