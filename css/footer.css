@@ -24,3 +24,9 @@
 .footer .copyright-wrapper p {
     font-size: 1.25em;
 }
+
+@media only screen and (max-width: 1000px) {
+    .footer {
+        height: 40px;
+    }
+}

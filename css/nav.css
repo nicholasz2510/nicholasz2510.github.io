@@ -4,9 +4,9 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-left: 20px;
+    padding-left: 1.04vw;
     box-shadow: 0 20px 35px 0 rgba(0,0,0,0.75);
-    min-width: 413px;
+    min-width: 21.5vw;
 }
 
 .nav .logo-wrapper a img {

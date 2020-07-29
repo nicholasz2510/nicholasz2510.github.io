@@ -35,3 +35,9 @@ body {
 ::-webkit-scrollbar-corner {
     background-color: #181a1b;
 }
+
+@media only screen and (max-width: 1000px) {
+    .main-container {
+        padding-bottom: 40px;
+    }
+}
