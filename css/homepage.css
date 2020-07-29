@@ -74,11 +74,13 @@
     .hero-section > .columns-wrapper > .text h1 {
         font-size: 60px;
         margin: 20px;
+        text-align: center;
     }
 
     .hero-section > .columns-wrapper > .text p {
         font-size: 24px;
         margin: 0 0 30px;
+        text-align: center;
     }
 
     .summary {
