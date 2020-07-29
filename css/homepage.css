@@ -44,6 +44,14 @@
     border-radius: 5px;
     box-shadow: 0 3px 5px 5px rgba(0,0,0,0.3);
 }
+.summary .section-title {
+    text-decoration: none;
+    color: white;
+}
+
+.summary .section-title:hover {
+    color: lightgray;
+}
 
 .summary .section-title h1 {
     font-size: 3em;
