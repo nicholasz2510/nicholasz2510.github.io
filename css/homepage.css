@@ -65,6 +65,8 @@
         align-content: center;
         width: 100vw;
         margin-top: 40px;
+        margin-left: 20px;
+        margin-right: 20px;
     }
 
     .hero-section > .columns-wrapper > .text {
