@@ -47,7 +47,6 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    /*height: 5vw;*/
     padding: 0 100px;
     margin: 10px;
     background-color: #222222;
@@ -102,5 +101,18 @@
         font-size: 24px;
         margin: 0 0 30px;
         text-align: center;
+    }
+
+    .links .link {
+         padding-left: 2vw;
+         padding-right: 2vw;
+    }
+
+    .links .link img {
+        max-height: 80px;
+    }
+
+    .links .link h1 {
+        font-size: 40px;
     }
 }
