@@ -12,8 +12,8 @@
 .nav .logo-wrapper a img {
     max-width: 40px;
     max-height: 40px;
-    border: 2px solid #2A456E;
-    border-radius: 3px;
+    /* border: 2px solid #2A456E;
+    border-radius: 3px; */
 }
 
 .nav .right a {
